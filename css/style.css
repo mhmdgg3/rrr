@@ -167,6 +167,10 @@ header .container nav .links-ul li:hover .nested-list {
     background-image: url(../img/bk_home_mobile.jpg);
   }
 
+  .home-img-background-and-text .container-text-home {
+    top: 35%;
+  }
+
   .home-img-background-and-text .container-text-home h2 {
     font-size: 17px;
 
