@@ -153,9 +153,6 @@ header .container nav .links-ul li:hover .nested-list {
     background: rgb(255, 255, 255, 0);
   }
 
-  header .container {
-    height: 40px;
-  }
   header .container .logo img {
     width: 100px;
     margin-top: 10px;
@@ -164,6 +161,10 @@ header .container nav .links-ul li:hover .nested-list {
 
   header .container nav .links-ul {
     display: none;
+  }
+
+  .home-img-background-and-text {
+    background-image: url(../img/bk_home_mobile.jpg);
   }
 
   .home-img-background-and-text .container-text-home h2 {
