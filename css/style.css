@@ -154,9 +154,9 @@ header .container nav .links-ul li:hover .nested-list {
   }
 
   header .container .logo img {
-    width: 100px;
+    width: 160px;
     margin-top: 10px;
-    margin-left: -15px;
+    margin-left: -25px;
   }
 
   header .container nav .links-ul {
